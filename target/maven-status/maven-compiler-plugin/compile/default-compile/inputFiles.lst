@@ -1,0 +1,9 @@
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/ClassroomApplication.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/controllers/ClassController.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/controllers/StudentController.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/model/ClassOfStudents.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/model/Student.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/repository/ClassRepository.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/repository/StudentRepository.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/service/ClassService.java
+/home/felipe/Workspace/personal/java/classroom/src/main/java/br/com/classroom/service/StudentService.java

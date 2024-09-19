@@ -1,0 +1,18 @@
+@baseUrl = http://localhost:8080
+
+GET {{baseUrl}}/students/all HTTP/1.1
+content-type: application/json
+
+###
+
+POST {{baseUrl}}/students/ HTTP/1.1
+content-type: application/json
+
+{
+  "name": "Paulo"
+}
+
+###
+
+DELETE  {{baseUrl}}/students/3 HTTP/1.1
+content-type: application/json

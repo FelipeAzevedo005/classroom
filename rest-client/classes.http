@@ -1,0 +1,18 @@
+@baseUrl = http://localhost:8080
+
+GET {{baseUrl}}/classes/all HTTP/1.1
+content-type: application/json
+
+###
+
+POST {{baseUrl}}/classes/ HTTP/1.1
+content-type: application/json
+
+{
+  "name": "Java"
+}
+
+###
+
+POST {{baseUrl}}/classes/enroll/1/1 HTTP/1.1
+content-type: application/json
